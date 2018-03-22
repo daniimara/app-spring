@@ -1,0 +1,5 @@
+# Security enable/disable
+security:
+  enabled: false
+  basic:
+    enabled: false
